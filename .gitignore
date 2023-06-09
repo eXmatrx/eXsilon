@@ -1,0 +1,3 @@
+/output/
+/build/artifacts/
+build/device/**/*.pyc

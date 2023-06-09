@@ -1,0 +1,1 @@
+-include build/targets.simulator.$(TARGET).mak
